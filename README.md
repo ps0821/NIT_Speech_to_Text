@@ -67,7 +67,8 @@ Then run:<br>
 <b>Visualizing Results:</b> Analyze the model's performance and view the converted text in the output.<br>
 
 <h1><b>Execution Screenshots</b></h1>
-![image](https://github.com/user-attachments/assets/aea9bb8b-4507-475c-b4fe-5dc1af54ab42)
+[image](https://github.com/user-attachments/assets/cd3456dd-e3f9-4383-abba-66b7e023f2e3)
+
 
 
 
