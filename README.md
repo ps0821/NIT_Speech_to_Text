@@ -67,11 +67,12 @@ Then run:<br>
 <b>Visualizing Results:</b> Analyze the model's performance and view the converted text in the output.<br>
 
 <h1><b>Execution Screenshots</b></h1>
-<img src="/Users/palakseth/Downloads/WhatsApp Image 2024-09-08 at 15.56.58.jpeg" alt="Execution of Speech-to-Text Conversion" width="600"><br>
-<img src="/Users/palakseth/Downloads/WhatsApp Image 2024-09-08 at 15.56.58 (1).jpeg" alt="Audio File Selection" width="600"><br>
-<img src="/Users/palakseth/Downloads/WhatsApp Image 2024-09-08 at 15.56.58 (2).jpeg" alt="Audio Successfully Uploaded" width="600"><br>
+![Execution of Speech-to-Text Conversion](assets/image1.jpeg)<br>
+![Audio File Selection](assets/image2.jpeg)<br>
+![Audio Successfully Uploaded](assets/image3.jpeg)<br>
 <p>Audio uploaded successfully. Converting to text...</p>
-<img src="/Users/palakseth/Downloads/WhatsApp Image 2024-09-08 at 15.56.59.jpeg" alt="Converted Text Output" width="600"><br>
+![Converted Text Output](assets/image4.jpeg)<br>
+
 
 <h1><b>Contributing</b></h1>
 Contributions are welcome! Please follow these steps:<br>
