@@ -67,10 +67,11 @@ Then run:<br>
 <b>Visualizing Results:</b> Analyze the model's performance and view the converted text in the output.<br>
 
 <h1><b>Execution Screenshots</b></h1>
-[image](https://github.com/user-attachments/assets/cd3456dd-e3f9-4383-abba-66b7e023f2e3)
-
-
-
+![Execution of Speech-to-Text Conversion](https://raw.githubusercontent.com/ps0821/NIT_Speech_to_Text/main/assets/image1.jpeg)<br>
+![Audio File Selection](https://raw.githubusercontent.com/ps0821/NIT_Speech_to_Text/main/assets/image2.jpeg)<br>
+![Audio Successfully Uploaded](https://raw.githubusercontent.com/ps0821/NIT_Speech_to_Text/main/assets/image3.jpeg)<br>
+<p>Audio uploaded successfully. Converting to text...</p>
+![Converted Text Output](https://raw.githubusercontent.com/ps0821/NIT_Speech_to_Text/main/assets/image4.jpeg)<br>
 
 
 <h1><b>Contributing</b></h1>
