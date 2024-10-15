@@ -73,7 +73,6 @@ Then run:<br>
 <p>Audio uploaded successfully. Converting to text...</p>
 ![Converted Text Output](assets/image4.jpeg)<br>
 
-
 <h1><b>Contributing</b></h1>
 Contributions are welcome! Please follow these steps:<br>
 - Fork the repository.<br>
