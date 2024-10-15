@@ -67,11 +67,8 @@ Then run:<br>
 <b>Visualizing Results:</b> Analyze the model's performance and view the converted text in the output.<br>
 
 <h1><b>Execution Screenshots</b></h1>
-![Execution of Speech-to-Text Conversion](https://github.com/user-attachments/assets/d50c205b-5e6c-4e85-afab-89ae2a221b10)<br>
-![Audio File Selection](https://github.com/user-attachments/assets/206e264b-7cad-4a62-87c0-f00d53d3c363)<br>
-![Audio Successfully Uploaded](https://github.com/user-attachments/assets/3b48ba06-96f0-4a7c-aa0a-58e75b4cd19e)<br>
-<p>Audio uploaded successfully. Converting to text...</p>
-![Converted Text Output](https://github.com/user-attachments/assets/e0979d1c-df73-4b94-80d4-210cc385c279)
+![image](https://github.com/user-attachments/assets/aea9bb8b-4507-475c-b4fe-5dc1af54ab42)
+
 
 
 
