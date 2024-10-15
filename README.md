@@ -69,9 +69,12 @@ Then run:<br>
 <h1><b>Execution Screenshots</b></h1>
 ![image1](https://github.com/user-attachments/assets/975b7772-3cd9-4027-bed0-3511934dcdbb)
 
+
 ![Execution of Speech-to-Text Conversion](https://raw.githubusercontent.com/ps0821/NIT_Speech_to_Text/main/assets/image1.jpeg)<br>
 ![Audio File Selection](https://raw.githubusercontent.com/ps0821/NIT_Speech_to_Text/main/assets/image2.jpeg)<br>
 ![Audio Successfully Uploaded](https://raw.githubusercontent.com/ps0821/NIT_Speech_to_Text/main/assets/image3.jpeg)<br>
+![image4](https://github.com/user-attachments/assets/2dc22de6-6144-4e66-a32f-d26194b651dd)
+
 <p>Audio uploaded successfully. Converting to text...</p>
 ![Converted Text Output](https://raw.githubusercontent.com/ps0821/NIT_Speech_to_Text/main/assets/image4.jpeg)<br>
 
